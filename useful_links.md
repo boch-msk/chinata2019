@@ -6,7 +6,7 @@
 
 [blog.csdn.net](https://blog.csdn.net/)
 
-[blog.51cto.com](https://blog.51cto.com/)
+[blog.51cto.com](https://blog.51cto.com/original)
 
 [tech.meituan.com](https://tech.meituan.com/)
 
